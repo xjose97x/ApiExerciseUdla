@@ -1,0 +1,1126 @@
+[
+  {
+    "name": "Bulbasaur",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "pokedexNumber": 1
+  },
+  {
+    "name": "Ivysaur",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "pokedexNumber": 2
+  },
+  {
+    "name": "Venusaur",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "pokedexNumber": 3
+  },
+  {
+    "name": "Charmander",
+    "type": [
+      "Fire"
+    ],
+    "pokedexNumber": 4
+  },
+  {
+    "name": "Charmeleon",
+    "type": [
+      "Fire"
+    ],
+    "pokedexNumber": 5
+  },
+  {
+    "name": "Charizard",
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "pokedexNumber": 6
+  },
+  {
+    "name": "Squirtle",
+    "type": [
+      "Water"
+    ],
+    "pokedexNumber": 7
+  },
+  {
+    "name": "Wartortle",
+    "type": [
+      "Water"
+    ],
+    "pokedexNumber": 8
+  },
+  {
+    "name": "Blastoise",
+    "type": [
+      "Water"
+    ],
+    "pokedexNumber": 9
+  },
+  {
+    "name": "Caterpie",
+    "type": [
+      "Bug"
+    ],
+    "pokedexNumber": 10
+  },
+  {
+    "name": "Metapod",
+    "type": [
+      "Bug"
+    ],
+    "pokedexNumber": 11
+  },
+  {
+    "name": "Butterfree",
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "pokedexNumber": 12
+  },
+  {
+    "name": "Weedle",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "pokedexNumber": 13
+  },
+  {
+    "name": "Kakuna",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "pokedexNumber": 14
+  },
+  {
+    "name": "Beedrill",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "pokedexNumber": 15
+  },
+  {
+    "name": "Pidgey",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "pokedexNumber": 16
+  },
+  {
+    "name": "Pidgeotto",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "pokedexNumber": 17
+  },
+  {
+    "name": "Pidgeot",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "pokedexNumber": 18
+  },
+  {
+    "name": "Rattata",
+    "type": [
+      "Normal"
+    ],
+    "pokedexNumber": 19
+  },
+  {
+    "name": "Raticate",
+    "type": [
+      "Normal"
+    ],
+    "pokedexNumber": 20
+  },
+  {
+    "name": "Spearow",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "pokedexNumber": 21
+  },
+  {
+    "name": "Fearow",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "pokedexNumber": 22
+  },
+  {
+    "name": "Ekans",
+    "type": [
+      "Poison"
+    ],
+    "pokedexNumber": 23
+  },
+  {
+    "name": "Arbok",
+    "type": [
+      "Poison"
+    ],
+    "pokedexNumber": 24
+  },
+  {
+    "name": "Pikachu",
+    "type": [
+      "Electric"
+    ],
+    "pokedexNumber": 25
+  },
+  {
+    "name": "Raichu",
+    "type": [
+      "Electric"
+    ],
+    "pokedexNumber": 26
+  },
+  {
+    "name": "Sandshrew",
+    "type": [
+      "Ground"
+    ],
+    "pokedexNumber": 27
+  },
+  {
+    "name": "Sandslash",
+    "type": [
+      "Ground"
+    ],
+    "pokedexNumber": 28
+  },
+  {
+    "name": "Nidoran♀",
+    "type": [
+      "Poison"
+    ],
+    "pokedexNumber": 29
+  },
+  {
+    "name": "Nidorina",
+    "type": [
+      "Poison"
+    ],
+    "pokedexNumber": 30
+  },
+  {
+    "name": "Nidoqueen",
+    "type": [
+      "Poison",
+      "Ground"
+    ],
+    "pokedexNumber": 31
+  },
+  {
+    "name": "Nidoran♂",
+    "type": [
+      "Poison"
+    ],
+    "pokedexNumber": 32
+  },
+  {
+    "name": "Nidorino",
+    "type": [
+      "Poison"
+    ],
+    "pokedexNumber": 33
+  },
+  {
+    "name": "Nidoking",
+    "type": [
+      "Poison",
+      "Ground"
+    ],
+    "pokedexNumber": 34
+  },
+  {
+    "name": "Clefairy",
+    "type": [
+      "Fairy"
+    ],
+    "pokedexNumber": 35
+  },
+  {
+    "name": "Clefable",
+    "type": [
+      "Fairy"
+    ],
+    "pokedexNumber": 36
+  },
+  {
+    "name": "Vulpix",
+    "type": [
+      "Fire"
+    ],
+    "pokedexNumber": 37
+  },
+  {
+    "name": "Ninetales",
+    "type": [
+      "Fire"
+    ],
+    "pokedexNumber": 38
+  },
+  {
+    "name": "Jigglypuff",
+    "type": [
+      "Normal",
+      "Fairy"
+    ],
+    "pokedexNumber": 39
+  },
+  {
+    "name": "Wigglytuff",
+    "type": [
+      "Normal",
+      "Fairy"
+    ],
+    "pokedexNumber": 40
+  },
+  {
+    "name": "Zubat",
+    "type": [
+      "Poison",
+      "Flying"
+    ],
+    "pokedexNumber": 41
+  },
+  {
+    "name": "Golbat",
+    "type": [
+      "Poison",
+      "Flying"
+    ],
+    "pokedexNumber": 42
+  },
+  {
+    "name": "Oddish",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "pokedexNumber": 43
+  },
+  {
+    "name": "Gloom",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "pokedexNumber": 44
+  },
+  {
+    "name": "Vileplume",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "pokedexNumber": 45
+  },
+  {
+    "name": "Paras",
+    "type": [
+      "Bug",
+      "Grass"
+    ],
+    "pokedexNumber": 46
+  },
+  {
+    "name": "Parasect",
+    "type": [
+      "Bug",
+      "Grass"
+    ],
+    "pokedexNumber": 47
+  },
+  {
+    "name": "Venonat",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "pokedexNumber": 48
+  },
+  {
+    "name": "Venomoth",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "pokedexNumber": 49
+  },
+  {
+    "name": "Diglett",
+    "type": [
+      "Ground"
+    ],
+    "pokedexNumber": 50
+  },
+  {
+    "name": "Dugtrio",
+    "type": [
+      "Ground"
+    ],
+    "pokedexNumber": 51
+  },
+  {
+    "name": "Meowth",
+    "type": [
+      "Normal"
+    ],
+    "pokedexNumber": 52
+  },
+  {
+    "name": "Persian",
+    "type": [
+      "Normal"
+    ],
+    "pokedexNumber": 53
+  },
+  {
+    "name": "Psyduck",
+    "type": [
+      "Water"
+    ],
+    "pokedexNumber": 54
+  },
+  {
+    "name": "Golduck",
+    "type": [
+      "Water"
+    ],
+    "pokedexNumber": 55
+  },
+  {
+    "name": "Mankey",
+    "type": [
+      "Fighting"
+    ],
+    "pokedexNumber": 56
+  },
+  {
+    "name": "Primeape",
+    "type": [
+      "Fighting"
+    ],
+    "pokedexNumber": 57
+  },
+  {
+    "name": "Growlithe",
+    "type": [
+      "Fire"
+    ],
+    "pokedexNumber": 58
+  },
+  {
+    "name": "Arcanine",
+    "type": [
+      "Fire"
+    ],
+    "pokedexNumber": 59
+  },
+  {
+    "name": "Poliwag",
+    "type": [
+      "Water"
+    ],
+    "pokedexNumber": 60
+  },
+  {
+    "name": "Poliwhirl",
+    "type": [
+      "Water"
+    ],
+    "pokedexNumber": 61
+  },
+  {
+    "name": "Poliwrath",
+    "type": [
+      "Water",
+      "Fighting"
+    ],
+    "pokedexNumber": 62
+  },
+  {
+    "name": "Abra",
+    "type": [
+      "Psychic"
+    ],
+    "pokedexNumber": 63
+  },
+  {
+    "name": "Kadabra",
+    "type": [
+      "Psychic"
+    ],
+    "pokedexNumber": 64
+  },
+  {
+    "name": "Alakazam",
+    "type": [
+      "Psychic"
+    ],
+    "pokedexNumber": 65
+  },
+  {
+    "name": "Machop",
+    "type": [
+      "Fighting"
+    ],
+    "pokedexNumber": 66
+  },
+  {
+    "name": "Machoke",
+    "type": [
+      "Fighting"
+    ],
+    "pokedexNumber": 67
+  },
+  {
+    "name": "Machamp",
+    "type": [
+      "Fighting"
+    ],
+    "pokedexNumber": 68
+  },
+  {
+    "name": "Bellsprout",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "pokedexNumber": 69
+  },
+  {
+    "name": "Weepinbell",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "pokedexNumber": 70
+  },
+  {
+    "name": "Victreebel",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "pokedexNumber": 71
+  },
+  {
+    "name": "Tentacool",
+    "type": [
+      "Water",
+      "Poison"
+    ],
+    "pokedexNumber": 72
+  },
+  {
+    "name": "Tentacruel",
+    "type": [
+      "Water",
+      "Poison"
+    ],
+    "pokedexNumber": 73
+  },
+  {
+    "name": "Geodude",
+    "type": [
+      "Rock",
+      "Ground"
+    ],
+    "pokedexNumber": 74
+  },
+  {
+    "name": "Graveler",
+    "type": [
+      "Rock",
+      "Ground"
+    ],
+    "pokedexNumber": 75
+  },
+  {
+    "name": "Golem",
+    "type": [
+      "Rock",
+      "Ground"
+    ],
+    "pokedexNumber": 76
+  },
+  {
+    "name": "Ponyta",
+    "type": [
+      "Fire"
+    ],
+    "pokedexNumber": 77
+  },
+  {
+    "name": "Rapidash",
+    "type": [
+      "Fire"
+    ],
+    "pokedexNumber": 78
+  },
+  {
+    "name": "Slowpoke",
+    "type": [
+      "Water",
+      "Psychic"
+    ],
+    "pokedexNumber": 79
+  },
+  {
+    "name": "Slowbro",
+    "type": [
+      "Water",
+      "Psychic"
+    ],
+    "pokedexNumber": 80
+  },
+  {
+    "name": "Magnemite",
+    "type": [
+      "Electric",
+      "Steel"
+    ],
+    "pokedexNumber": 81
+  },
+  {
+    "name": "Magneton",
+    "type": [
+      "Electric",
+      "Steel"
+    ],
+    "pokedexNumber": 82
+  },
+  {
+    "name": "Farfetch'd",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "pokedexNumber": 83
+  },
+  {
+    "name": "Doduo",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "pokedexNumber": 84
+  },
+  {
+    "name": "Dodrio",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "pokedexNumber": 85
+  },
+  {
+    "name": "Seel",
+    "type": [
+      "Water"
+    ],
+    "pokedexNumber": 86
+  },
+  {
+    "name": "Dewgong",
+    "type": [
+      "Water",
+      "Ice"
+    ],
+    "pokedexNumber": 87
+  },
+  {
+    "name": "Grimer",
+    "type": [
+      "Poison"
+    ],
+    "pokedexNumber": 88
+  },
+  {
+    "name": "Muk",
+    "type": [
+      "Poison"
+    ],
+    "pokedexNumber": 89
+  },
+  {
+    "name": "Shellder",
+    "type": [
+      "Water"
+    ],
+    "pokedexNumber": 90
+  },
+  {
+    "name": "Cloyster",
+    "type": [
+      "Water",
+      "Ice"
+    ],
+    "pokedexNumber": 91
+  },
+  {
+    "name": "Gastly",
+    "type": [
+      "Ghost",
+      "Poison"
+    ],
+    "pokedexNumber": 92
+  },
+  {
+    "name": "Haunter",
+    "type": [
+      "Ghost",
+      "Poison"
+    ],
+    "pokedexNumber": 93
+  },
+  {
+    "name": "Gengar",
+    "type": [
+      "Ghost",
+      "Poison"
+    ],
+    "pokedexNumber": 94
+  },
+  {
+    "name": "Onix",
+    "type": [
+      "Rock",
+      "Ground"
+    ],
+    "pokedexNumber": 95
+  },
+  {
+    "name": "Drowzee",
+    "type": [
+      "Psychic"
+    ],
+    "pokedexNumber": 96
+  },
+  {
+    "name": "Hypno",
+    "type": [
+      "Psychic"
+    ],
+    "pokedexNumber": 97
+  },
+  {
+    "name": "Krabby",
+    "type": [
+      "Water"
+    ],
+    "pokedexNumber": 98
+  },
+  {
+    "name": "Kingler",
+    "type": [
+      "Water"
+    ],
+    "pokedexNumber": 99
+  },
+  {
+    "name": "Voltorb",
+    "type": [
+      "Electric"
+    ],
+    "pokedexNumber": 100
+  },
+  {
+    "name": "Electrode",
+    "type": [
+      "Electric"
+    ],
+    "pokedexNumber": 101
+  },
+  {
+    "name": "Exeggcute",
+    "type": [
+      "Grass",
+      "Psychic"
+    ],
+    "pokedexNumber": 102
+  },
+  {
+    "name": "Exeggutor",
+    "type": [
+      "Grass",
+      "Psychic"
+    ],
+    "pokedexNumber": 103
+  },
+  {
+    "name": "Cubone",
+    "type": [
+      "Ground"
+    ],
+    "pokedexNumber": 104
+  },
+  {
+    "name": "Marowak",
+    "type": [
+      "Ground"
+    ],
+    "pokedexNumber": 105
+  },
+  {
+    "name": "Hitmonlee",
+    "type": [
+      "Fighting"
+    ],
+    "pokedexNumber": 106
+  },
+  {
+    "name": "Hitmonchan",
+    "type": [
+      "Fighting"
+    ],
+    "pokedexNumber": 107
+  },
+  {
+    "name": "Lickitung",
+    "type": [
+      "Normal"
+    ],
+    "pokedexNumber": 108
+  },
+  {
+    "name": "Koffing",
+    "type": [
+      "Poison"
+    ],
+    "pokedexNumber": 109
+  },
+  {
+    "name": "Weezing",
+    "type": [
+      "Poison"
+    ],
+    "pokedexNumber": 110
+  },
+  {
+    "name": "Rhyhorn",
+    "type": [
+      "Ground",
+      "Rock"
+    ],
+    "pokedexNumber": 111
+  },
+  {
+    "name": "Rhydon",
+    "type": [
+      "Ground",
+      "Rock"
+    ],
+    "pokedexNumber": 112
+  },
+  {
+    "name": "Chansey",
+    "type": [
+      "Normal"
+    ],
+    "pokedexNumber": 113
+  },
+  {
+    "name": "Tangela",
+    "type": [
+      "Grass"
+    ],
+    "pokedexNumber": 114
+  },
+  {
+    "name": "Kangaskhan",
+    "type": [
+      "Normal"
+    ],
+    "pokedexNumber": 115
+  },
+  {
+    "name": "Horsea",
+    "type": [
+      "Water"
+    ],
+    "pokedexNumber": 116
+  },
+  {
+    "name": "Seadra",
+    "type": [
+      "Water"
+    ],
+    "pokedexNumber": 117
+  },
+  {
+    "name": "Goldeen",
+    "type": [
+      "Water"
+    ],
+    "pokedexNumber": 118
+  },
+  {
+    "name": "Seaking",
+    "type": [
+      "Water"
+    ],
+    "pokedexNumber": 119
+  },
+  {
+    "name": "Staryu",
+    "type": [
+      "Water"
+    ],
+    "pokedexNumber": 120
+  },
+  {
+    "name": "Starmie",
+    "type": [
+      "Water",
+      "Psychic"
+    ],
+    "pokedexNumber": 121
+  },
+  {
+    "name": "Mr. Mime",
+    "type": [
+      "Psychic",
+      "Fairy"
+    ],
+    "pokedexNumber": 122
+  },
+  {
+    "name": "Scyther",
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "pokedexNumber": 123
+  },
+  {
+    "name": "Jynx",
+    "type": [
+      "Ice",
+      "Psychic"
+    ],
+    "pokedexNumber": 124
+  },
+  {
+    "name": "Electabuzz",
+    "type": [
+      "Electric"
+    ],
+    "pokedexNumber": 125
+  },
+  {
+    "name": "Magmar",
+    "type": [
+      "Fire"
+    ],
+    "pokedexNumber": 126
+  },
+  {
+    "name": "Pinsir",
+    "type": [
+      "Bug"
+    ],
+    "pokedexNumber": 127
+  },
+  {
+    "name": "Tauros",
+    "type": [
+      "Normal"
+    ],
+    "pokedexNumber": 128
+  },
+  {
+    "name": "Magikarp",
+    "type": [
+      "Water"
+    ],
+    "pokedexNumber": 129
+  },
+  {
+    "name": "Gyarados",
+    "type": [
+      "Water",
+      "Flying"
+    ],
+    "pokedexNumber": 130
+  },
+  {
+    "name": "Lapras",
+    "type": [
+      "Water",
+      "Ice"
+    ],
+    "pokedexNumber": 131
+  },
+  {
+    "name": "Ditto",
+    "type": [
+      "Normal"
+    ],
+    "pokedexNumber": 132
+  },
+  {
+    "name": "Eevee",
+    "type": [
+      "Normal"
+    ],
+    "pokedexNumber": 133
+  },
+  {
+    "name": "Vaporeon",
+    "type": [
+      "Water"
+    ],
+    "pokedexNumber": 134
+  },
+  {
+    "name": "Jolteon",
+    "type": [
+      "Electric"
+    ],
+    "pokedexNumber": 135
+  },
+  {
+    "name": "Flareon",
+    "type": [
+      "Fire"
+    ],
+    "pokedexNumber": 136
+  },
+  {
+    "name": "Porygon",
+    "type": [
+      "Normal"
+    ],
+    "pokedexNumber": 137
+  },
+  {
+    "name": "Omanyte",
+    "type": [
+      "Rock",
+      "Water"
+    ],
+    "pokedexNumber": 138
+  },
+  {
+    "name": "Omastar",
+    "type": [
+      "Rock",
+      "Water"
+    ],
+    "pokedexNumber": 139
+  },
+  {
+    "name": "Kabuto",
+    "type": [
+      "Rock",
+      "Water"
+    ],
+    "pokedexNumber": 140
+  },
+  {
+    "name": "Kabutops",
+    "type": [
+      "Rock",
+      "Water"
+    ],
+    "pokedexNumber": 141
+  },
+  {
+    "name": "Aerodactyl",
+    "type": [
+      "Rock",
+      "Flying"
+    ],
+    "pokedexNumber": 142
+  },
+  {
+    "name": "Snorlax",
+    "type": [
+      "Normal"
+    ],
+    "pokedexNumber": 143
+  },
+  {
+    "name": "Articuno",
+    "type": [
+      "Ice",
+      "Flying"
+    ],
+    "pokedexNumber": 144
+  },
+  {
+    "name": "Zapdos",
+    "type": [
+      "Electric",
+      "Flying"
+    ],
+    "pokedexNumber": 145
+  },
+  {
+    "name": "Moltres",
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "pokedexNumber": 146
+  },
+  {
+    "name": "Dratini",
+    "type": [
+      "Dragon"
+    ],
+    "pokedexNumber": 147
+  },
+  {
+    "name": "Dragonair",
+    "type": [
+      "Dragon"
+    ],
+    "pokedexNumber": 148
+  },
+  {
+    "name": "Dragonite",
+    "type": [
+      "Dragon",
+      "Flying"
+    ],
+    "pokedexNumber": 149
+  },
+  {
+    "name": "Mewtwo",
+    "type": [
+      "Psychic"
+    ],
+    "pokedexNumber": 150
+  },
+  {
+    "name": "Mew",
+    "type": [
+      "Psychic"
+    ],
+    "pokedexNumber": 151
+  }
+]
